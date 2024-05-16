@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "machinebuffers:machine_buffer",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "pattern": [
+    "# #",
+    "#C#",
+    " # "
+  ],
+  "result": {
+    "item": "machinebuffers:machine_buffer"
+  },
+  "show_notification": true
+}

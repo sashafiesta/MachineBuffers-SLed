@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "machinebuffers:block/machine_buffer"
+    },
+    "facing=east": {
+      "model": "machinebuffers:block/machine_buffer_side",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "machinebuffers:block/machine_buffer_side",
+      "y": 0
+    },
+    "facing=south": {
+      "model": "machinebuffers:block/machine_buffer_side",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "machinebuffers:block/machine_buffer_side",
+      "y": 270
+    }
+  }
+}

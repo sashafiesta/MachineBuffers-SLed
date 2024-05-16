@@ -1,0 +1,9 @@
+{
+	"parent": "block/hopper_side",
+	"textures": {
+        "particle": "machinebuffers:block/machine_buffer_outside",
+        "top": "machinebuffers:block/machine_buffer_top",
+        "side": "machinebuffers:block/machine_buffer_outside",
+        "inside": "machinebuffers:block/machine_buffer_inside"
+	}
+}
